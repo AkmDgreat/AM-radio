@@ -1,2 +1,3 @@
-# AM-radio
-Fully functional AM radio
+# AM radio
+As part of a Physics lab course, I collaborated in a team of two to design and construct a fully functional AM radio. During the first three months, we focused on building, testing, and debugging individual circuits, honing our skills in building, testing, and troubleshooting the circuits. In the final month, we built the tank circuit, demodulator, and amplifier, to create a working AM radio receiver. We took an extra challenge, and used varactor (variable capacitor) to improve signal reception. Finally, we tested it, and successfully tuned the radio to receive and clearly listen to two distinct radio channels.
+
